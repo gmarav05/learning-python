@@ -1,0 +1,9 @@
+
+def my_function(*args):
+  print(args[0])
+  print(args[1])
+  print(args[2])
+  print(args)
+
+
+my_function("Emil", "Tobias", "Linus")
